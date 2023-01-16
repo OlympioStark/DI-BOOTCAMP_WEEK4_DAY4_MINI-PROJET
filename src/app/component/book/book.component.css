@@ -1,0 +1,13 @@
+.m_container {
+    display: flex;
+}
+
+.m_card {
+    width: 100px !important;
+    height: 100px !important;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.3);
+}
+
+img {
+    width: 100px;
+}
